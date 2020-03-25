@@ -1,0 +1,16 @@
+*.bin
+*.csv
+*.pdf
+*.pkl
+*.pyc
+*-checkpoint.ipynb
+
+.bash_history
+.bashrc
+.wget-hsts
+
+.cache/
+.ipython/
+.jupyter/
+
+TODO.txt
