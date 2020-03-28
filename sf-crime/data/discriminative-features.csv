@@ -1,0 +1,7 @@
+Attributes,WindowType,LogLoss
+all,exact,2.60675
+all,cumulative,2.59470
+num,exact,2.61889
+num,cumulative,2.60562
+cat,exact,2.65614
+cat,cumulative,2.65614
