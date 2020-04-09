@@ -4,4 +4,4 @@ scikit-learn==0.21.3
 pandas==0.25.1
 matplotlib==3.1.1
 numba==0.48.0
-tabulate==0.8.6.
+tabulate==0.8.6
